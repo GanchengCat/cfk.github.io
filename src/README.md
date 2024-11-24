@@ -3,8 +3,6 @@ home: true
 icon: home
 title: 主页
 heroImage: https://www.meowra.cn/logo.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 猫之国度 - Catsland
@@ -15,7 +13,7 @@ actions:
     link: ./demo/
     type: primary
 
-  - text: 文档
+  - text: 游玩须知
     link: ./guide/
 
 highlights:
