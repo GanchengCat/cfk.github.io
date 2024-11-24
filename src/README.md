@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 猫之国度 - Catsland
-tagline: 猫之国度 —————— 致力于生电
+tagline: 猫之国度 ——— 致力于生电
 actions:
   - text: 加入游戏
     icon: gamepad
