@@ -27,7 +27,6 @@ highlights:
 
   - header: 服务器的特色
     description: 我们为服务器添加了一些插件以扩展游玩的辅助性
-    image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
@@ -38,7 +37,7 @@ highlights:
         icon: clipboard-check
         details: 支持基岩版用户来服务器游玩
 
-      - title: 提示容器
+      - title: 
         icon: box-archive
         details: 用样式装饰 Markdown 内容
         link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
