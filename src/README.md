@@ -64,7 +64,6 @@ highlights:
       - title: 无经济系统
         icon: superscript
         details: 我们致力于生电，不加入经济系统，打造完美的生电
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
       - title: 腐竹是<del>男娘</del>
         icon: quote-left
