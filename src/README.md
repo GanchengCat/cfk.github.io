@@ -37,20 +37,17 @@ highlights:
         icon: clipboard-check
         details: 支持基岩版用户来服务器游玩
 
-      - title: 
+      - title: 采用leaves核心
         icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+        details: 更好的生电优化
 
-      - title: GFM 警告
+      - title: 添加了举报系统
         icon: bell
-        details: GFM 风格的警告容器
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/alert.html
+        details: 对作弊者或语言不善者更多关爱~
 
-      - title: 选项卡
+      - title: 采用<del>高性能</del>服务器
         icon: table-columns
-        details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/tabs.html
+        details: 高性能（划掉）E5 1620-v4 预计年后升级
 
       - title: 代码组
         icon: code
