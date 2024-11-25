@@ -49,24 +49,21 @@ highlights:
         icon: table-columns
         details: 高性能（划掉）E5 1620-v4 预计年后升级
 
-      - title: 代码组
+      - title: 指令开放
         icon: code
-        details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/code-tabs.html
+        details: 开放了部分指令，用于辅助生存
 
-      - title: 自定义对齐
+      - title: 前进基地
         icon: align-center
-        details: Markdown 中对内容进行自定义对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/align.html
+        details: 我们建设了前进基地，给予玩家们前期资源
 
-      - title: 自定义属性
+      - title: 无反作弊
         icon: code
-        details: 为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/attrs.html
+        details: 我们不加入反作弊，因为其会导致masa全家桶失效
 
-      - title: 上下角标
+      - title: 无经济系统
         icon: superscript
-        details: 轻松在 Markdown 中添加上下角标
+        details: 我们致力于生电，不加入经济系统，打造完美的生电
         link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html
 
       - title: 脚注
