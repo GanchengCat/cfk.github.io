@@ -25,8 +25,8 @@ highlights:
       - title: 我们致力于生电
       - title: 拒绝熊孩子
 
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+  - header: 服务器的特色
+    description: 我们为服务器添加了一些插件以扩展游玩的辅助性
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -34,10 +34,9 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 链接检查
+      - title: 互通服务器
         icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        details: 支持基岩版用户来服务器游玩
 
       - title: 提示容器
         icon: box-archive
