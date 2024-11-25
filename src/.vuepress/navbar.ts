@@ -11,14 +11,12 @@ export default navbar([
       {
         text: "公告",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "公告/",
       },
       {
         text: "成员列表",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "成员列表/",
       },
     ],
   },
