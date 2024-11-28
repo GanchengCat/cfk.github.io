@@ -9,23 +9,7 @@ export default defineUserConfig({
   title: "猫之国度",
   description: "Meowhuan的服务器官网",
 
-  theme: hopeTheme({
-    plugins: {
-      mdEnhance: {
-        footnote: true,
-		tasklist: true,
-      },
-	  markdownHint: {
-        // 启用 GFM 警告
-        alert: true,
-        hint: true,
-      },
-	  markdownTab: {
-        tabs: true,
-      },
-    },
-  }),
-});
+  theme,
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
