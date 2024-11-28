@@ -9,7 +9,6 @@ export default defineUserConfig({
   title: "猫之国度",
   description: "Meowhuan的服务器官网",
 
-  theme,
   theme: hopeTheme({
     plugins: {
       mdEnhance: {
