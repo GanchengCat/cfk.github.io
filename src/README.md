@@ -72,16 +72,3 @@ highlights:
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 主题版权所有 © 2019-至今 Mr.Hope | 官网版权所有 © 2023-至今 Meowhuan
 ---
-脚注 1 链接[^first]。
-
-脚注 2 链接[^second]。
-
-行内的脚注^[行内脚注文本] 定义。
-
-重复的页脚定义[^second]。
-
-[^first]: 脚注 **可以包含特殊标记**
-
-    也可以由多个段落组成
-
-[^second]: 脚注文字。
