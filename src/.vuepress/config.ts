@@ -14,3 +14,22 @@ export default defineUserConfig({
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });
+
+export default {
+  theme: hopeTheme({
+    plugins: {
+      mdEnhance: {
+        footnote: true,
+		tasklist: true,
+      },
+	   markdownHint: {
+        // 启用 GFM 警告
+        alert: true,
+        hint: true,
+      },
+      markdownTab: {
+        tabs: true,
+    },
+  },
+  }),
+};
