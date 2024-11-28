@@ -10,26 +10,24 @@ export default defineUserConfig({
   description: "Meowhuan的服务器官网",
 
   theme,
-
-  // 和 PWA 一起启用
-  // shouldPrefetch: false,
-});
-
-export default {
   theme: hopeTheme({
     plugins: {
       mdEnhance: {
         footnote: true,
 		tasklist: true,
       },
-	   markdownHint: {
+	  markdownHint: {
         // 启用 GFM 警告
         alert: true,
         hint: true,
       },
-      markdownTab: {
+	  markdownTab: {
         tabs: true,
+      },
     },
-  },
   }),
 };
+
+  // 和 PWA 一起启用
+  // shouldPrefetch: false,
+});
